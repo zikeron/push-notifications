@@ -1,0 +1,23 @@
+{
+  "name": "push-notifications",
+  "version": "1.0.0",
+  "description": "Push notifications from node js",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Node",
+    "JavaScript"
+  ],
+  "author": "Alejandro Cortez <acortez.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "web-push": "^3.4.4"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
