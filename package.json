@@ -14,7 +14,7 @@
   "author": "Alejandro Cortez <acortez.dev@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "web-push": "^3.4.4",
     "dotenv": "^8.2.0"
   }
